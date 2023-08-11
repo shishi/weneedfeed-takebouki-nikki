@@ -1,0 +1,11 @@
+---
+
+title: 竹箒日記
+
+pages:
+  - id: takebouki
+    title: 竹箒日記
+    url: http://www.typemoon.org/bbb/diary/
+    item_selector: table.daytitle
+    item_link_selector: ".//a"
+    item_title_selector: ".//a"
